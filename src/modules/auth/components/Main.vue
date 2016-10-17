@@ -1,3 +1,9 @@
+<script>
+export default {
+
+}
+</script>
+
 <template>
   <header class="page-header row">
 
@@ -5,9 +11,3 @@
 
   </header>
 </template>
-
-<script>
-    export default {
-
-    }
-</script>
