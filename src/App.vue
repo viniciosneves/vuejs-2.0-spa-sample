@@ -12,7 +12,8 @@ import RootHeader from './components/root/header/main.vue'
 
 export default {
 
-  components: { RootHeader }
+  components: { RootHeader },
+  name: 'App'
 
 }
 </script>
